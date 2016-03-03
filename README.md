@@ -47,14 +47,46 @@ $ vi ~/.gitconfig
 $ exit
 ```
 
+#### Modern Programming Fundamentals
+  - JavaScript
+  - Node.js
+  - Pair Programming
+  - Test Driven Development
+  - Git
+  - JazzHub
 
+#### Back End Services
+  - HTTP
+  - Express.js
+  - Async Programming
 
+#### Front End Technologies
+  - Browser
+  - Angular, JavaScript MVC Framework
+  - Build Tools, Gulp
 
-fundamentals - js, node, pair, tdd, git, jazzhub, mocha, chai
-back end - express, http, async, callback, nodemon
-front end - angular, gulp
-full stack - front + back + api
-nodered
-projects
-hackathon
+#### Full Stack Applications
+  - Front End
+  - Back End
+  - API Consumption
 
+#### NodeRED
+  - Create Application on Bluemix
+
+#### Projects
+
+#### Hackathon
+
+#### Retrospective
+
+#### Feedback
+
+#### Tour
+  - Galvanize
+  - Full Stack Classrooms
+  - Data Science Classrooms
+  - Bluemix Garage
+  - Cloudant
+  - Startups
+
+#### Happy Hour on Roof
