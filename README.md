@@ -20,10 +20,11 @@
   - Roll Call, Verify Emails
   - Students
   - Instructor
-  - About Galvanize
+  - About Galvanize, http://www.galvanize.com/
   - Course Overview
 
 #### Bluemix Garage
+  - https://www.ibm.com/cloud-computing/bluemix/garage/
   - Presentation
   - Design Thinking
 
@@ -49,7 +50,7 @@ $ exit
 
 #### Modern Programming Fundamentals
   - JavaScript
-  - Node.js
+  - Node.js, https://nodejs.org/en/
   - Pair Programming
   - Test Driven Development
   - Git
@@ -57,10 +58,11 @@ $ exit
 
 #### Back End Services
   - HTTP
-  - Express.js
+  - Express.js, http://expressjs.com/
   - Async Programming
 
 #### IBM Bluemix DevOps Services
+  - https://hub.jazz.net/
   - JazzHub
   - Code Editor
   - Track & Plan
@@ -68,7 +70,8 @@ $ exit
 
 #### Front End Technologies
   - Browser
-  - Angular, JavaScript MVC Framework
+  - Angular, JavaScript MVC Framework, https://angularjs.org/
+  - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
   - Build Tools, Gulp
 
 #### Full Stack Applications
@@ -77,9 +80,11 @@ $ exit
   - API Consumption
 
 #### NodeRED
+  - http://nodered.org/
   - Create Application on Bluemix
 
 #### Cloud Foundry
+  - https://www.cloudfoundry.org/
   - CLI
   - Deploy from Command Line
   - Create Services
@@ -101,6 +106,7 @@ $ exit
 #### Retrospective
 
 #### Feedback
+  - https://docs.google.com/a/galvanize.com/forms/d/1jRT3EE_acCe_V8iWA77nU8sdqhbBmIiHUsAiMVQt4Eo/viewform
 
 #### Tour
   - Galvanize
