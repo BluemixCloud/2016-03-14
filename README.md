@@ -1,6 +1,9 @@
+![Galvanize](images/galvanize.png)
 ![IBM Bluemix](images/bluemix.png)
 
-# IBM CA 101 :: 2016-03-14
+# IBM CA 101
+
+## Cohort 2016-03-14
 
 ### Schedule
   - Monday: 8am - 5pm (Breakfast and Lunch served)
