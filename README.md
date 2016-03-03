@@ -29,14 +29,21 @@
   - Cloud
   - Agile
 
-#### Cloud 9
+#### Cloud 9 Setup
   - https://c9.io/
-  - Create a Workspace
+  - Create a Custom Ubuntu Workspace
   - Open Terminal
-  - wget https://raw.githubusercontent.com/chyld/devops/master/c9-setup.sh
-  - chmod +x c9-setup.sh
-  - ./c9-setup.sh
-  - vi ~/.gitconfig ### or use other editor
+
+```sh
+$ rm README.md
+$ wget https://raw.githubusercontent.com/chyld/devops/master/c9-setup.sh
+$ chmod +x c9-setup.sh
+$ ./c9-setup.sh
+$ rm c9-setup.sh
+$ vi ~/.gitconfig
+$ exit
+```
+
 
 
 
