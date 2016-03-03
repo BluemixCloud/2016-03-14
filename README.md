@@ -91,6 +91,12 @@ $ exit
 #### Projects
 
 #### Hackathon
+  - http://bluemixathon.devpost.com/
+  - https://vimeo.com/137915648
+  - http://www.linkedin.com/pulse/so-you-want-run-corporate-hackathon-vinod-ralh
+  - Split into groups of 3 or 4
+  - Each team build an application using Bluemix services and deploys using DevOps services
+  - At the conclusion of the hackathon, each team demos their app to the class
 
 #### Retrospective
 
