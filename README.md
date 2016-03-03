@@ -1,5 +1,5 @@
 ![Galvanize](images/galvanize.png)
-![IBM Bluemix](images/bluemix.png)
+![IBM Bluemix](images/ibm.jpg)
 
 # IBM CA 101
 
