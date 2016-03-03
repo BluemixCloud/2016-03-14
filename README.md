@@ -1,7 +1,7 @@
+# IBM Cloud Advisor 101 Course
+
 ![Galvanize](images/galvanize.png)
 ![IBM Bluemix](images/ibm.jpg)
-
-# IBM CA 101
 
 ## Cohort 2016-03-14
 
