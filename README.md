@@ -60,6 +60,12 @@ $ exit
   - Express.js
   - Async Programming
 
+#### IBM Bluemix DevOps Services
+  - JazzHub
+  - Code Editor
+  - Track & Plan
+  - Build Pipeline
+
 #### Front End Technologies
   - Browser
   - Angular, JavaScript MVC Framework
@@ -72,6 +78,15 @@ $ exit
 
 #### NodeRED
   - Create Application on Bluemix
+
+#### Cloud Foundry
+  - CLI
+  - Deploy from Command Line
+  - Create Services
+  - Bind Services
+  - View Marketplace
+  - View Application Credentials
+  - Scale up or Down App Instances
 
 #### Projects
 
