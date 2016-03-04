@@ -91,6 +91,7 @@ $ exit
   - Browser
   - Angular, JavaScript MVC Framework, https://angularjs.org/
   - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
+  - Highcharts Analytical Charting, http://www.highcharts.com/
   - Build Tools, Gulp
 
 | Project | Description |
