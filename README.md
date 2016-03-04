@@ -151,3 +151,7 @@ $ exit
   - Startups
 
 #### Happy Hour on Roof
+
+### Reference Links
+  - [DB2 Data Types](https://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0008483.html?cp=SSEPGG_10.5.0%2F2-12-2-3)
+
