@@ -77,7 +77,7 @@ $ exit
 | Hello Express | Basic hello world in Express.js |
 | Max | Return the largest number |
 | Hog/Pig  | Dice Game |
-| Stock Quote | Build a service that returns a quote for a stock symbol |
+| Stock Quote | Build a service that returns a quote for a stock symbol [API](http://dev.markitondemand.com/MODApis/) |
 
 #### IBM Bluemix DevOps Services
   - https://hub.jazz.net/
@@ -91,6 +91,12 @@ $ exit
   - Angular, JavaScript MVC Framework, https://angularjs.org/
   - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
   - Build Tools, Gulp
+
+| Project | Description |
+| ------- | ----------- |
+| Movies | Basic HTML & CSS Site |
+| Hello Angular | Angular.js hello world Application |
+| Weather Service | Display the weather forecast for a geographic area [API](http://openweathermap.org/api) |
 
 #### Full Stack Applications
   - Front End
