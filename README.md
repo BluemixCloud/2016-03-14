@@ -56,6 +56,17 @@ $ exit
   - Git
   - JazzHub
 
+| Project | Description |
+| ------------- | ------------- |
+| `add(1,2)`  | Add 2 numbers, compute sum|
+| `sub(3,5)`  | Subtract 2 numbers, find difference |
+| `square(2)` | Square a number |
+| `factorial(5)` | Compute factorial |
+| `distance(p1, p2)` | Compute distance between 2 points on a plane |
+| `roll(6)` | Roll a random n-sided die |
+| `sum([3,5,7])` | Sum an array of values |
+| `squareOdds([1,2,3,4,5])` | Return an array of squared odd values |
+
 #### Back End Services
   - HTTP
   - Express.js, http://expressjs.com/
