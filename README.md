@@ -120,6 +120,10 @@ $ exit
   - View Application Credentials
   - Scale up or Down App Instances
 
+#### Bluemix Services
+  - [SQL Database](https://console.ng.bluemix.net/catalog/services/sql-database/)
+  - [Cloudant](https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/)
+
 #### Projects
 
 | Project | Description |
