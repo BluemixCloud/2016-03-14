@@ -95,7 +95,7 @@ $ exit
 
 | Project | Description |
 | ------- | ----------- |
-| Movies | Basic HTML & CSS Site |
+| Movies | Basic HTML & CSS site |
 | Hello Angular | Angular.js hello world Application |
 | Weather Service | Display the weather forecast : [API](http://openweathermap.org/current) : [Account](http://home.openweathermap.org/users/sign_up) |
 
@@ -107,6 +107,7 @@ $ exit
 
 #### NodeRED
   - http://nodered.org/
+  - https://console.ng.bluemix.net/catalog/starters/node-red-starter/
   - Create Application on Bluemix
 
 #### Cloud Foundry
