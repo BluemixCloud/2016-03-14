@@ -78,7 +78,7 @@ $ exit
 | Hello Express | Basic hello world in Express.js |
 | Max | Return the largest number |
 | Hog/Pig  | Dice Game |
-| Stock Quote | Build a service that returns a quote for a stock symbol : [API](http://dev.markitondemand.com/MODApis/) |
+| Stock Quote | Build a service that returns a quote for a stock symbol |
 
 #### IBM Bluemix DevOps Services
   - https://hub.jazz.net/
@@ -98,7 +98,7 @@ $ exit
 | ------- | ----------- |
 | Movies | Basic HTML & CSS site |
 | Hello Angular | Angular.js hello world Application |
-| Weather Service | Display the weather forecast : [API](http://openweathermap.org/current) : [Account](http://home.openweathermap.org/users/sign_up) |
+| Weather Service | Display the weather forecast |
 
 #### Full Stack Applications
   - Front End
@@ -131,7 +131,7 @@ $ exit
 | ------- | ----------- |
 | Twitter Analysis | Build an app which takes in a stream of tweets from Twitter, runs the data through Sentiment Analysis, stores the data in a DB2 database and then run SQL queries against that database using an Angular frontend while displaying the dynamic data using HighCharts.js. |
 | Location Awareness | Build an app that determines your current latitude and longitude using a built in GPS device, radio tower triangulation, IP lookup, etc., then reverse geocodes that data to find the city, state and street address. Then it queries the Yelp API and weather API to find local, nearby recommendations along with the current weather. It displays the results on a live, dynamic updating Google Map. |
-| SMS Lookup | Use Twilio's messaging API to build an SMS enabled app. Users can find current stock, weather or language translations simply by texting a query to your application. |
+| SMS Lookup | Use Twilio's messaging API to build an SMS enabled app. Users can find current stock, weather, movie information or language translations simply by texting a query to your application. |
 | Optics | Build an app which uses the built in camera in your laptop to perform facial recognition. Your app will take a snapshot from your laptop's camera, send that to Object Storage for saving, then sent to Watson Visual Recognition to determine the characteristics of the photo in question, storing the resultant data in a Cloudant database and returning the results back for display in the browser. |
 | Real Time Translator | Make an app which will record your voice using the built in microphone in your laptop. The resuting WAV file will get saved in Object Storage, then send to Watson's Speech to Text service to get translated, after becoming text, it will then be translated into another language, then processed by Watson's Text to Speech service. The resulting sound file will then get sent back to your laptop, into the browser and played through the speaker. Your voice, your language, translated into another language and played back using a different voice.  |
 
@@ -157,6 +157,10 @@ $ exit
   - Startups
 
 #### Happy Hour on Roof
+
+### APIs
+  - [Stock Quote](http://dev.markitondemand.com/MODApis/)
+  - [Weather](http://openweathermap.org/current) : [Sign Up for Key](http://home.openweathermap.org/users/sign_up)
 
 ### Reference Links
   - [DB2 Data Types](https://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0008483.html?cp=SSEPGG_10.5.0%2F2-12-2-3)
