@@ -102,6 +102,7 @@ $ exit
   - Front End
   - Back End
   - API Consumption
+  - Microservices
 
 #### NodeRED
   - http://nodered.org/
@@ -118,6 +119,12 @@ $ exit
   - Scale up or Down App Instances
 
 #### Projects
+
+| Project | Description |
+| ------- | ----------- |
+| Twitter Analysis | Build an app which takes in a stream of tweets from Twitter, runs the data through Sentiment Analysis, stores the data in a DB2 database and then run SQL queries against that database using an Angular frontend while displaying the dynamic data using HighCharts.js |
+| Location Awareness | Build an app that takes your determines your current latitude and longitude using a built in GPS device, radio tower triangulation, IP lookup, etc., then reverse geocodes that data to find the city, state and street address. Then it queries the Yelp API and weather API to find local, nearby recommendations along with the current weather. It displays the results on a live, dynamic updating Google Map. |
+
 
 #### Hackathon
   - http://bluemixathon.devpost.com/
