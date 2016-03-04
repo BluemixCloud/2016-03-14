@@ -49,7 +49,7 @@ $ exit
 ```
 
 #### Modern Programming Fundamentals
-  - JavaScript
+  - JavaScript (ES5 & ES2015)
   - Node.js, https://nodejs.org/en/
   - Pair Programming
   - Test Driven Development
@@ -58,7 +58,7 @@ $ exit
 
 | Project | Description |
 | ------------- | ------------- |
-| `add(1,2)`  | Add 2 numbers, compute sum|
+| `add(1,2)`  | Add 2 numbers, compute sum |
 | `sub(3,5)`  | Subtract 2 numbers, find difference |
 | `square(2)` | Square a number |
 | `factorial(5)` | Compute factorial |
@@ -71,6 +71,13 @@ $ exit
   - HTTP
   - Express.js, http://expressjs.com/
   - Async Programming
+
+| Project | Description |
+| ------------- | ------------- |
+| Hello Express | Basic hello world in Express.js |
+| Max | Return the largest number |
+| Hog/Pig  | Dice Game |
+| Stock Quote | Build a service that returns a quote for a stock symbol |
 
 #### IBM Bluemix DevOps Services
   - https://hub.jazz.net/
