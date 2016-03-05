@@ -164,6 +164,19 @@ $ exit
 #### Happy Hour on Roof
 
 ### APIs
+
+| Name | Documentation | Register | Get Key | Node Module |
+| ---- | ------------- | -------- | ------- | ----------- |
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+
+
+
+
   - [Stock Quote](http://dev.markitondemand.com/MODApis/)
   - [Weather](http://openweathermap.org/current) : [Sign Up for Key](http://home.openweathermap.org/users/sign_up)
   - [Mashape - Register for Key](https://market.mashape.com/explore)
