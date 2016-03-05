@@ -124,6 +124,11 @@ $ exit
 #### Bluemix Services
   - [SQL Database](https://console.ng.bluemix.net/catalog/services/sql-database/)
   - [Cloudant](https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/)
+  - [Object Storage](https://console.ng.bluemix.net/catalog/services/object-storage/)
+  - [Language Translation](https://console.ng.bluemix.net/catalog/services/language-translation/)
+  - [Visual Recognition](https://console.ng.bluemix.net/catalog/services/visual-recognition/)
+  - [Text to Speech](https://console.ng.bluemix.net/catalog/services/text-to-speech/)
+  - [Speech to Text](https://console.ng.bluemix.net/catalog/services/speech-to-text/)
 
 #### Projects
 
