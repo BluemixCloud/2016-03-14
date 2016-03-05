@@ -169,6 +169,7 @@ $ exit
   - [Mashape - Register for Key](https://market.mashape.com/explore)
   - [Movie Database](http://www.omdbapi.com/)
   - [Yelp Sign Up](https://www.yelp.com/signup) : [Yelp Key](https://www.yelp.com/developers/manage_api_keys) : [Yelp Docs](https://www.yelp.com/developers/documentation/v2/overview) : [Yelp Node Module](https://www.npmjs.com/package/yelp)
+  - [Twilio Sign Up](https://www.twilio.com/try-twilio) : [Twilio Node Module](https://www.npmjs.com/package/twilio)
 
 ### Reference Links
   - [DB2 Data Types](https://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0008483.html?cp=SSEPGG_10.5.0%2F2-12-2-3)
