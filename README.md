@@ -172,8 +172,8 @@ $ exit
 | Mashape | [Docs](https://market.mashape.com/explore)| [Register](https://market.mashape.com/explore) |||
 | MovieDB | [Docs](http://www.omdbapi.com/) ||||
 | Yelp | [Docs](https://www.yelp.com/developers/documentation/v2/overview) | [Register](https://www.yelp.com/signup) | [Key](https://www.yelp.com/developers/manage_api_keys) | [NPM](https://www.npmjs.com/package/yelp) |
-| Twilio || [Regsiter](https://www.twilio.com/try-twilio) || [NPM](https://www.npmjs.com/package/twilio) |
-| Google Maps | [Docs](https://developers.google.com/maps/documentation/javascript/tutorial) | [Google Maps Key](https://console.developers.google.com) |||
+| Twilio | [Docs](http://twilio.github.io/twilio-node/) | [Regsiter](https://www.twilio.com/try-twilio) || [NPM](https://www.npmjs.com/package/twilio) |
+| Google Maps | [Docs](https://developers.google.com/maps/documentation/javascript/tutorial) | [Register](https://console.developers.google.com) |||
 
 ### Reference Links
   - [DB2 Data Types](https://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0008483.html?cp=SSEPGG_10.5.0%2F2-12-2-3)
