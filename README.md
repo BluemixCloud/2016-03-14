@@ -72,6 +72,7 @@ $ exit
   - HTTP
   - Express.js, http://expressjs.com/
   - Async Programming
+  - Node.js Perf Test with Apache Bench
 
 | Project | Description |
 | ------------- | ------------- |
