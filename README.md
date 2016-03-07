@@ -71,7 +71,7 @@ $ exit
 #### Back End Services
   - HTTP
   - Express.js, http://expressjs.com/
-  - Async Programming
+  - Async Programming with Callbacks & Promises
   - Node.js Perf Test with Apache Bench
 
 | Project | Description |
