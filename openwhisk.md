@@ -16,6 +16,7 @@ function add(x, y){
 }
 
 wsk list # show all
+wsk property get # show all properties
 
 # async: timer.js
 function main(){
