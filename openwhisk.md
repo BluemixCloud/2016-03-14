@@ -15,6 +15,8 @@ function add(x, y){
   return x + y;
 }
 
+wsk list # show all
+
 # async: timer.js
 function main(){
   setTimeout(function() {
