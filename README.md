@@ -122,6 +122,12 @@ $ exit
   - View Application Credentials
   - Scale up or Down App Instances
 
+#### OpenWhisk
+  - Distributed
+  - Event Driven
+  - Compute
+  - [Notes](openwhisk.md)
+
 #### Bluemix Services
   - [SQL Database](https://console.ng.bluemix.net/catalog/services/sql-database/)
   - [Cloudant](https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/)
