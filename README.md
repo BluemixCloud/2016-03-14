@@ -123,9 +123,8 @@ $ exit
   - Scale up or Down App Instances
 
 #### OpenWhisk
-  - Distributed
-  - Event Driven
-  - Compute
+  - Distributed, Event Driven Compute
+  - [Home](https://new-console.ng.bluemix.net/openwhisk/)
   - [Notes](openwhisk.md)
 
 #### Bluemix Services
