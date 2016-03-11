@@ -11,6 +11,13 @@
   - Tuesday - Friday: 9am - 5pm
   - Friday: 5pm (Hosted Happyhour on Rooftop)
 
+### Daily
+  - Monday: Fundamentals
+  - Tuesday: Backend, OpenWhisk, NodeRED, Frontend
+  - Wednesday: Fullstack Apps
+  - Thursday: Fullstack Apps
+  - Friday: Hackathon
+
 ### Syllabus
 
 #### Arrive & Setup
