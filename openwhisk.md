@@ -1,8 +1,5 @@
 # OpenWhisk
 
-http -v post https://openwhisk.ng.bluemix.net/api/v1/namespaces/chyld_dev/actions/chyld/stock?blocking=true "Authorization: Basic ODk2NDllYjUtZjQ5OS00MmM4LTk4MmUtNzYzMDkzOWFiZmYzOkpxV2oxZkkyZTNkYk5FRVFhUVZZRlNTUEFRNTROaDR1RUNtdFZId0FFd2J6bEFlbUx1Vm1ab1R3eWZjNnJDNGY=" symbol=goog
-
-
 https://new-console.ng.bluemix.net/docs/openwhisk/index.html
 
 # setup
