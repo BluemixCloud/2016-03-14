@@ -2,6 +2,9 @@
 
 https://new-console.ng.bluemix.net/docs/openwhisk/index.html
 
+https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api/
+
+
 # setup
 wsk property set --auth __KEY__ --namespace "chyld_dev"
 wsk action invoke /whisk.system/samples/echo -p message hello --blocking --result
