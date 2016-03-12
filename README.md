@@ -117,6 +117,11 @@ $ exit
   - View Application Credentials
   - Scale up or Down App Instances
 
+#### Chrome Debugging Plugins
+  - [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
+  - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+  - [Angular Inspector](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
+
 #### Front End Technologies
   - Browser
   - Angular, JavaScript MVC Framework, https://angularjs.org/
