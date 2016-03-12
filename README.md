@@ -60,9 +60,9 @@ $ exit
   - JavaScript (ES5 & ES2015)
   - Node.js, https://nodejs.org/en/
   - Pair Programming
-  - Test Driven Development
+  - Test Driven Development: [Mocha](https://mochajs.org/) [Chai](http://chaijs.com/)
   - Git
-  - JazzHub
+  - [JazzHub](https://hub.jazz.net/)
 
 | Project | Description |
 | ------------- | ------------- |
