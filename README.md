@@ -6,12 +6,12 @@
 
 ## Cohort 2016-03-14
 
-### Schedule
+### Food Schedule
   - Monday: 8am - 5pm (Breakfast and Lunch served)
   - Tuesday - Friday: 9am - 5pm
   - Friday: 5pm (Hosted Happyhour on Rooftop)
 
-### Daily
+### Coding Schedule
   - Monday: Fundamentals
   - Tuesday: Backend, OpenWhisk, NodeRED, Frontend, DevOps, CloudFoundry
   - Wednesday: Fullstack Apps with Microservices
