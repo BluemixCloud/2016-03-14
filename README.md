@@ -57,7 +57,7 @@ $ exit
 ```
 
 #### Modern Programming Fundamentals
-  - JavaScript (ES5 & ES2015)
+  - JavaScript
   - Node.js, https://nodejs.org/en/
   - Module system
   - Pair Programming
