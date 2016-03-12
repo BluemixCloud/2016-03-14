@@ -59,6 +59,7 @@ $ exit
 #### Modern Programming Fundamentals
   - JavaScript (ES5 & ES2015)
   - Node.js, https://nodejs.org/en/
+  - Module system
   - Pair Programming
   - Test Driven Development: [Mocha](https://mochajs.org/) | [Chai](http://chaijs.com/)
   - [Git](http://git-scm.com/)
@@ -122,6 +123,7 @@ $ exit
   - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
   - Highcharts Analytical Charting, http://www.highcharts.com/
   - Build Tools, Gulp
+  - [Fullstack Template](https://github.com/BluemixCloud/full-stack-template.2016.03.03)
 
 | Project | Description |
 | ------- | ----------- |
