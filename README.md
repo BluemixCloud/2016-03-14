@@ -13,9 +13,9 @@
 
 ### Daily
   - Monday: Fundamentals
-  - Tuesday: Backend, OpenWhisk, NodeRED, Frontend
-  - Wednesday: Fullstack Apps
-  - Thursday: Fullstack Apps
+  - Tuesday: Backend, OpenWhisk, NodeRED, Frontend, DevOps, CloudFoundry
+  - Wednesday: Fullstack Apps with Microservices
+  - Thursday: Fullstack Apps with Microservices
   - Friday: Hackathon
 
 ### Syllabus
@@ -95,24 +95,10 @@ $ exit
   - Track & Plan
   - Build Pipeline
 
-#### Front End Technologies
-  - Browser
-  - Angular, JavaScript MVC Framework, https://angularjs.org/
-  - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
-  - Highcharts Analytical Charting, http://www.highcharts.com/
-  - Build Tools, Gulp
-
-| Project | Description |
-| ------- | ----------- |
-| Movies | Basic HTML & CSS site |
-| Hello Angular | Angular.js hello world Application |
-| Weather Service | Display the weather forecast |
-
-#### Full Stack Applications
-  - Front End
-  - Back End
-  - API Consumption
-  - Microservices
+#### OpenWhisk
+  - Distributed, Event Driven Compute
+  - [Home](https://new-console.ng.bluemix.net/openwhisk/)
+  - [Notes](openwhisk.md)
 
 #### NodeRED
   - http://nodered.org/
@@ -129,10 +115,18 @@ $ exit
   - View Application Credentials
   - Scale up or Down App Instances
 
-#### OpenWhisk
-  - Distributed, Event Driven Compute
-  - [Home](https://new-console.ng.bluemix.net/openwhisk/)
-  - [Notes](openwhisk.md)
+#### Front End Technologies
+  - Browser
+  - Angular, JavaScript MVC Framework, https://angularjs.org/
+  - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
+  - Highcharts Analytical Charting, http://www.highcharts.com/
+  - Build Tools, Gulp
+
+| Project | Description |
+| ------- | ----------- |
+| Movies | Basic HTML & CSS site |
+| Hello Angular | Angular.js hello world Application |
+| Weather Service | Display the weather forecast |
 
 #### Bluemix Services
   - [SQL Database](https://console.ng.bluemix.net/catalog/services/sql-database/)
@@ -142,6 +136,12 @@ $ exit
   - [Visual Recognition](https://console.ng.bluemix.net/catalog/services/visual-recognition/)
   - [Text to Speech](https://console.ng.bluemix.net/catalog/services/text-to-speech/)
   - [Speech to Text](https://console.ng.bluemix.net/catalog/services/speech-to-text/)
+
+#### Full Stack Applications
+  - Front End
+  - Back End
+  - API Consumption
+  - Microservices
 
 #### Projects
 
