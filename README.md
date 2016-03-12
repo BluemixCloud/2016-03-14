@@ -98,6 +98,7 @@ $ exit
 #### OpenWhisk
   - Distributed, Event Driven Compute
   - [Home](https://new-console.ng.bluemix.net/openwhisk/)
+  - [Configure Authentication](https://new-console.ng.bluemix.net/openwhisk/cli)
   - [Notes](openwhisk.md)
 
 #### NodeRED
