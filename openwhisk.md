@@ -17,6 +17,8 @@ $ wsk action invoke /whisk.system/samples/echo -p message hello --blocking --res
 $ wsk property get
 # to view all assets
 $ wsk list
+$ # tail the activation logs
+$ wsk activation poll
 ```
 
 #### Lab 1
