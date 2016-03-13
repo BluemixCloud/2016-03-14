@@ -43,3 +43,32 @@ function main(params){
   return {payload: Math.pow(params.x, 2)};
 }
 ```
+
+#### Lab 2
+```sh
+$ touch random.js # use the code below
+$ # upload action
+$ wsk action create math/random random.js
+$ # view all your assets
+$ wsk list
+$ # call the function, no parameters are needed
+$ wsk action invoke --blocking math/random
+```
+
+```js
+// random.js
+/* global whisk */
+
+var request = require('request');
+
+function main(params){
+  console.log('square.js being called with params:', params);
+
+  var o = {url: 'https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint16', json: true};
+  request(o, function(err, res, body){
+    whisk.done({payload: body.data});
+  });
+
+  return whisk.async();
+}
+```
