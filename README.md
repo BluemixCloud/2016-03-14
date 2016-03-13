@@ -75,6 +75,7 @@ $ exit
 | `roll(6)` | Roll a random n-sided die |
 | `sum([3,5,7])` | Sum an array of values |
 | `squareOdds([1,2,3,4,5])` | Return an array of squared odd values |
+| `bmi(75, 195)` | BMI Calculator. Input height, weight. Return BMI |
 
 #### Back End Services
   - HTTP
