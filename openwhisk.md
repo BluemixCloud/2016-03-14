@@ -1,6 +1,11 @@
 # OpenWhisk
 
-https://new-console.ng.bluemix.net/docs/openwhisk/index.html
+#### Links
+  - [Home](https://new-console.ng.bluemix.net/openwhisk/)
+  - [Configure Authentication](https://new-console.ng.bluemix.net/openwhisk/cli)
+  - [Documentation](https://new-console.ng.bluemix.net/docs/openwhisk/index.html)
+
+
 
 https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api/
 
