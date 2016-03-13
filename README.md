@@ -98,7 +98,7 @@ $ exit
 
 #### OpenWhisk
   - Distributed, Event Driven Compute
-  - [Notes](openwhisk.md)
+  - [Notes & Lab](openwhisk.md)
 
 #### NodeRED
   - http://nodered.org/
