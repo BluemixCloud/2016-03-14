@@ -28,20 +28,24 @@ $ wsk action update add add.js
 $ wsk action delete add
 ```
 
-# activation
-wsk activation list
-wsk activation get 08488542884845839b476b5c174bd1bf
-wsk activation result 08488542884845839b476b5c174bd1bf
-wsk activation logs 08488542884845839b476b5c174bd1bf
-wsk activation poll
+#### Using Activations
+```sh
+$ wsk activation list
+$ wsk activation get 08488542884845839b476b5c174bd1bf
+$ wsk activation result 08488542884845839b476b5c174bd1bf
+$ wsk activation logs 08488542884845839b476b5c174bd1bf
+$ wsk activation poll
+```
 
-# trigger
-wsk action create aAdd add.js 
-wsk trigger create tAdd
-wsk rule create --enable rAdd tAdd aAdd
-wsk action list
-wsk trigger list
-wsk rule list
-wsk trigger fire tAdd -p x 7 -p y 8
-wsk activation list
-wsk activation get 3b17cd81a6644dd39a751c10955748be
+#### Mapping Triggers to Actions through Rules
+```sh
+$ wsk action create aAdd add.js 
+$ wsk trigger create tAdd
+$ wsk rule create rAdd tAdd aAdd --enable
+$ wsk action list
+$ wsk trigger list
+$ wsk rule list
+$ wsk trigger fire tAdd -p x 7 -p y 8
+$ wsk activation list
+$ wsk activation get 3b17cd81a6644dd39a751c10955748be
+```
