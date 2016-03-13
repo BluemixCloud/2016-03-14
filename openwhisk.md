@@ -4,44 +4,29 @@
   - [Home](https://new-console.ng.bluemix.net/openwhisk/)
   - [Configure Authentication](https://new-console.ng.bluemix.net/openwhisk/cli)
   - [Documentation](https://new-console.ng.bluemix.net/docs/openwhisk/index.html)
+  - [Using the REST API](https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api)
 
+#### Configure
+```sh
+$ wsk property set --auth __KEY__ --namespace "chyld_dev"
+$ wsk action invoke /whisk.system/samples/echo -p message hello --blocking --result
+```
 
+#### Show All
+```sh
+$ wsk list
+$ wsk property get
+```
 
-https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api/
-
-
-# setup
-wsk property set --auth __KEY__ --namespace "chyld_dev"
-wsk action invoke /whisk.system/samples/echo -p message hello --blocking --result
-
-# sync: add.js
-function main(params){
-  var sum = add(params.x, params.y);
-  return {payload: sum};
-}
-function add(x, y){
-  return x + y;
-}
-
-wsk list # show all
-wsk property get # show all properties
-
-# async: timer.js
-function main(){
-  setTimeout(function() {
-    return whisk.done({message: 'finshed computation'});
-  }, 20000);
-
-  return whisk.async();
-}
-
-# action
-wsk action create add add.js
-wsk action list
-wsk action get add
-wsk action invoke add --blocking -p x 3 -p y 2
-wsk action update add add.js
-wsk action delete add
+#### Creating an Add Action
+```sh
+$ wsk action create add add.js
+$ wsk action list
+$ wsk action get add
+$ wsk action invoke add --blocking -p x 3 -p y 2
+$ wsk action update add add.js
+$ wsk action delete add
+```
 
 # activation
 wsk activation list
