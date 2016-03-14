@@ -77,6 +77,7 @@ $ exit
 | `sum([3,5,7])` | Sum an array of values |
 | `squareOdds([1,2,3,4,5])` | Return an array of squared odd values |
 | `bmi(75, 195)` | BMI Calculator. Input height, weight. Return BMI |
+| `quadratic(2,-3,7)` | Find the zeros for the equation 2x^2-3x+7 |
 
 #### Back End Services
   - HTTP
