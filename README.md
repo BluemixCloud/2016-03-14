@@ -30,6 +30,7 @@
   - Instructor
   - About Galvanize, http://www.galvanize.com/
   - Course Overview
+  - Distribute Badges
 
 #### Bluemix Garage
   - https://www.ibm.com/cloud-computing/bluemix/garage/
@@ -182,6 +183,8 @@ $ exit
   - Startups
 
 #### Happy Hour on Roof
+
+#### Collect Badges
 
 ### APIs
 
