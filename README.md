@@ -86,7 +86,7 @@ $ exit
   - Async Programming with Callbacks & Promises
   - Node.js Perf Test with Apache Bench
   - Run Concurrently, then run in parallel
-  - `ab -n __ -c __ http://0.0.0.0:8080/` Execute HTTP requests
+  - `ab -n __ -c __ http://0.0.0.0:8080/`
 
 | Project | Description |
 | ------------- | ------------- |
