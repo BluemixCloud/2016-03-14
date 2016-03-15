@@ -74,3 +74,13 @@ function main(params){
   return whisk.async();
 }
 ```
+
+#### Lab 3 to N
+  - Make primitive math services:
+    - Area
+    - Volume
+    - Sum
+    - Average
+    - StdDev
+    - Min
+    - Max
