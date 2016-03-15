@@ -82,11 +82,12 @@ $ exit
 
 #### Back End Services
   - HTTP
-  - Express.js, http://expressjs.com/
-  - Async Programming with Callbacks & Promises
-  - Node.js Perf Test with Apache Bench
+  - [Express.js](http://expressjs.com/)
+  - Async programming with callbacks & promises
+  - Node.js perf test with Apache Bench
   - Run sequentially `-c 1`, then run in parallel `-c 1000`
   - `ab -n __ -c __ http://0.0.0.0:8080/`
+  - Compare perf to Rails app
 
 | Project | Description |
 | ------------- | ------------- |
