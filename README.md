@@ -110,7 +110,7 @@ $ exit
 #### NodeRED
   - http://nodered.org/
   - https://console.ng.bluemix.net/catalog/starters/node-red-starter/
-  - Create Application on Bluemix
+  - Create basic NodeRED flows, exercise functionality
 
 #### Cloud Foundry
   - https://www.cloudfoundry.org/
