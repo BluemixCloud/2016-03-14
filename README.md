@@ -13,8 +13,8 @@
 
 ### Coding Schedule
   - Monday: Fundamentals
-  - Tuesday: Backend, OpenWhisk, NodeRED, Frontend, DevOps, CloudFoundry
-  - Wednesday: Fullstack Apps with Microservices
+  - Tuesday: Backend, DevOps, OpenWhisk, NodeRED, CloudFoundry
+  - Wednesday: Frontend, Fullstack Apps with Microservices
   - Thursday: Fullstack Apps with Microservices
   - Friday: Hackathon
 
