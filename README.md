@@ -78,12 +78,14 @@ $ exit
 | `squareOdds([1,2,3,4,5])` | Return an array of squared odd values |
 | `bmi(75, 195)` | BMI Calculator. Input height, weight. Return BMI |
 | `quadratic(2,-3,7)` | Find the zeros for the equation 2x^2-3x+7 |
+| `isPrime(21)` | Returns true or false if input is a prime number |
 
 #### Back End Services
   - HTTP
   - Express.js, http://expressjs.com/
   - Async Programming with Callbacks & Promises
   - Node.js Perf Test with Apache Bench
+  - `ab -n 10 -c 5 http://0.0.0.0:8080/` Execute 10 requests, concurency set to 5
 
 | Project | Description |
 | ------------- | ------------- |
