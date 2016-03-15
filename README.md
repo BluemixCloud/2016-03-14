@@ -88,6 +88,7 @@ $ exit
   - Run sequentially `-c 1`, then run in parallel `-c 1000`
   - `ab -n __ -c __ http://0.0.0.0:8080/`
   - Compare perf to Rails app
+  - Use `rake routes` and browser to demo REST API
   - Parse a deeply nested JSON structure; [Weather Data](weather.json)
 
 | Project | Description |
