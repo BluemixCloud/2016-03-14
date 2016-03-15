@@ -85,7 +85,7 @@ $ exit
   - Express.js, http://expressjs.com/
   - Async Programming with Callbacks & Promises
   - Node.js Perf Test with Apache Bench
-  - `ab -n 10 -c 5 http://0.0.0.0:8080/` Execute 10 requests, concurency set to 5
+  - `ab -n __ -c __ http://0.0.0.0:8080/` Execute HTTP requests
 
 | Project | Description |
 | ------------- | ------------- |
