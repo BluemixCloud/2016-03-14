@@ -85,7 +85,7 @@ $ exit
   - Express.js, http://expressjs.com/
   - Async Programming with Callbacks & Promises
   - Node.js Perf Test with Apache Bench
-  - Run Concurrently, then run in parallel
+  - Run concurrently `-c 1`, then run in parallel `-c 1000`
   - `ab -n __ -c __ http://0.0.0.0:8080/`
 
 | Project | Description |
