@@ -104,6 +104,9 @@ $ exit
   - Code Editor
   - Track & Plan
   - Build Pipeline
+    - Build a Stage
+    - Add Jobs to a Stage
+    - Jobs can be re-ordered
 
 #### OpenWhisk
   - Distributed, Event Driven Compute
