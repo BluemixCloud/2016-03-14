@@ -111,6 +111,10 @@ $ exit
 #### OpenWhisk
   - Distributed, Event Driven Compute
   - [Notes & Lab](openwhisk.md)
+  - To call from other code
+    - `Content-Type: application/json`
+    - `Authorization: Basic <based64 encoded key>`
+    - [Base64 Utility](https://www.base64encode.org/)
 
 #### NodeRED
   - http://nodered.org/
