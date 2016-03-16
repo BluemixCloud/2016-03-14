@@ -116,13 +116,11 @@ $ exit
 
 #### Cloud Foundry
   - https://www.cloudfoundry.org/
-  - CLI
-  - Deploy from Command Line
-  - Create Services
-  - Bind Services
-  - View Marketplace
-  - View Application Credentials
-  - Scale up or Down App Instances
+  - `cf api https://api.ng.bluemix.net`
+  - `cf login`
+  - `cf m`
+  - `cf a`
+  - `cf s`
 
 #### Chrome Debugging Plugins
   - [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
