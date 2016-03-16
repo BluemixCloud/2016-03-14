@@ -126,9 +126,11 @@ $ exit
   - https://www.cloudfoundry.org/
   - `cf api https://api.ng.bluemix.net`
   - `cf login`
-  - `cf m`
-  - `cf a`
-  - `cf s`
+  - `cf target`
+  - `cf marketplace`
+  - `cf apps`
+  - `cf services`
+  - `cf --help`
 
 #### Chrome Debugging Plugins
   - [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
