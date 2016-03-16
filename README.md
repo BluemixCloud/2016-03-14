@@ -115,7 +115,7 @@ $ exit
     - `Content-Type: application/json`
     - `Authorization: Basic <based64 encoded key>`
     - [Base64 Utility](https://www.base64encode.org/)
-    - `POST /namespaces/{namespace}/actions/{actionName}`
+    - `POST https://openwhisk.ng.bluemix.net/api/v1/namespaces/{namespace}/actions/{actionName}`
 
 #### NodeRED
   - http://nodered.org/
