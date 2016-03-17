@@ -176,6 +176,15 @@ $ exit
 | Optics | Build an app which uses the built in camera in your laptop to perform facial recognition. Your app will take a snapshot from your laptop's camera, send that to Object Storage for saving, then sent to Watson Visual Recognition to determine the characteristics of the photo in question, storing the resultant data in a Cloudant database and returning the results back for display in the browser. |
 | Real Time Translator | Make an app which will record your voice using the built in microphone in your laptop. The resuting WAV file will get saved in Object Storage, then send to Watson's Speech to Text service to get translated, after becoming text, it will then be translated into another language, then processed by Watson's Text to Speech service. The resulting sound file will then get sent back to your laptop, into the browser and played through the speaker. Your voice, your language, translated into another language and played back using a different voice.  |
 
+#### Project Links
+  - Twilio
+    - [View Credentials](https://www.twilio.com/user/account/messaging/dashboard)
+    - [Phone Numbers](https://www.twilio.com/user/account/messaging/phone-numbers)
+    - [Using the API](http://twilio.github.io/twilio-node/)
+  - Slack
+    - [Incoming Webhooks](https://api.slack.com/incoming-webhooks)
+    - [Outgoing Webhooks](https://api.slack.com/outgoing-webhooks)
+
 #### Hackathon
   - http://bluemixathon.devpost.com/
   - https://vimeo.com/137915648
