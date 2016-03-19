@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="template">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Angular + Bootstrap Template</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  </head>
+  <body ng-controller="MainCtrl">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Watson Image Analysis</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <button ng-click="start()">Start Camera</button>
+          <button ng-click="reset()">Reset Camera</button>
+          <button ng-click="snap()">Snap Photo</button>
+          <button ng-click="upload()">Upload Photo</button>
+          <button ng-click="get()">Get Images</button>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <div id="camera" style="width: 320px; height: 240px;"></div>
+        </div>
+        <div class="col-xs-4">
+          <div id="result" style="width: 320px; height: 240px;"></div>
+        </div>
+        <div class="col-xs-4">
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div ng-repeat="image in images">
+            <img ng-src="{{image.url}}" />
+            <ul>
+              <li ng-repeat="label in image.labels">{{label.label_name}} : {{label.label_score}}</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script src="/vendor/lodash.min.js"></script>
+    <script src="/vendor/moment-with-locales.min.js"></script>
+    <script src="/vendor/highcharts.js"></script>
+    <script src="/vendor/webcam.js"></script>
+    <script src="/vendor/recorder.js"></script>
+    <script src="/vendor/utilities.js"></script>
+    <script src="/index.js"></script>
+  </body>
+</html>
